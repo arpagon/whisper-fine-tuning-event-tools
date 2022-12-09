@@ -1,0 +1,10 @@
+name: OpenAIWhisper
+channels:
+  - conda-forge
+dependencies:
+  - ffmpeg
+  - python
+  - pip
+  - ipython
+  - jupyter
+  - git-lfs
