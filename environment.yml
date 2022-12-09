@@ -3,11 +3,12 @@ channels:
   - conda-forge
 dependencies:
   - ffmpeg
-  - python
+  - python=3.10
   - pip
   - ipython
   - jupyter
   - git-lfs
+  - neovim
   - pip:
     - torch>=1.7
     - torchaudio
